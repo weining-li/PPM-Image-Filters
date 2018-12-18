@@ -1,12 +1,13 @@
-**Image Filters**
+# Image Filters
 
-This project applies filters to .ppm Images.
+This project applies filters (greyscale, verticle flip, etc.) to .ppm Images.
 
 
 
-**Usage**
+## Usage
+
 1. Place a .ppm image in the folder
-2. Run:
+2. Run using included makefile:
 
 `make run`
 
